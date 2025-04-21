@@ -2,6 +2,8 @@
 
 A complete portfolio of my iOS development work, divided into professional and personal projects. Use the table of contents to jump directly to a specific section.
 
+**I am currently experiencing issues with the TestFlight links and working with support to resolve it. In the meantime, internal invitations are available upon request, and I’d be happy to provide a live demo if preferred.**
+
 ---
 
 ## 📌 Table of Contents
