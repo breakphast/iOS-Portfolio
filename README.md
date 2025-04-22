@@ -2,8 +2,6 @@
 
 A complete portfolio of my iOS development work, divided into professional and personal projects. Use the table of contents to jump directly to a specific section.
 
-**I am currently experiencing issues with the TestFlight links and working with support to resolve it. In the meantime, internal invitations are available upon request, and I’d be happy to provide a live demo if preferred.**
-
 ---
 
 ## 📌 Table of Contents
@@ -57,7 +55,7 @@ A complete portfolio of my iOS development work, divided into professional and p
 ## 🛠️ Personal Projects
 
 ### DiscoMuse
-- **TestFlight:** https://testflight.apple.com/join/ABEjB72J 
+- **TestFlight:** https://testflight.apple.com/join/f5Q92Dxu
 - **Description:** A music discovery app that mimics dating app UX—users browse song previews one at a time, can like or skip tracks, and search for the type of music they want recommended.
 - **Tech Stack:** SwiftUI, MusicKit, Spotify API, Firebase, RevenueCat
   
@@ -72,7 +70,7 @@ A complete portfolio of my iOS development work, divided into professional and p
 ---
 
 ### Loch Sports
-- **TestFlight:** https://testflight.apple.com/join/tEqxXTCN
+- **TestFlight:** https://testflight.apple.com/join/hh37b8Z2
 - **Description:** A virtual sportsbook app where users can place bets, manage bankrolls, and track stats weekly like a real bettor.  
 - **Tech Stack:** SwiftUI, SwiftData, Sports Data API
   
@@ -87,7 +85,7 @@ A complete portfolio of my iOS development work, divided into professional and p
 ---
 
 ### Tracksmith
-- **TestFlight:** https://testflight.apple.com/join/MgNNMQvS
+- **TestFlight:** https://testflight.apple.com/join/gDrZAdMg
 - **Description:** A smart Apple Music playlist creator that auto-generates and filters tracks based on play count, artist, title and date added and many more! Designed for quick playlist management and curation.  
 - **Tech Stack:** SwiftUI, SwiftData, MusicKit, Firebase
 
@@ -100,7 +98,7 @@ A complete portfolio of my iOS development work, divided into professional and p
 </p>
 
 ### AI Chat Bot
-- **TestFlight:** https://testflight.apple.com/join/MgNNMQvS
+- **TestFlight:** https://testflight.apple.com/join/MgNNMQvS [Currently inactive, internal invitation or live demo available on request)
 - **Codebase:** https://github.com/breakphast/AIChatbot
 - **Description:** A modular AI-powered chat app where users can generate custom avatars and chat with them in real time. Built as part of the Advanced Architecture course by Swiftful Thinking.  
 - **Tech Stack:** SwiftUI, Firebase, SwiftData, RevenueCat, OpenAI, XCode Cloud
